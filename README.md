@@ -1,5 +1,8 @@
 ## Hi there 👋
-
+- 🔭 I’m currently working on Ecommerce project.😌
+- 🌱 I’m currently learning backpack and filament admin-panel concept and also unit testing🔬
+- 👯 I’m looking to collaborate with new web development teams in tech companies💻
+- - 📫 How to reach me: https://www.linkedin.com/in/mohammad-raufian-243a54203
 <!--
 **mohammadRfn/mohammadRfn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
