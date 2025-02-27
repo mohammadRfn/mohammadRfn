@@ -1,5 +1,5 @@
 ## Hi there 👋
-My name is Mohammad, I'm a computer engineer with bachelor degree intrested in web development with laravel and php!
+My name is Mohammad, I'm a computer engineer with bachelor's degree intrested in web development with laravel and php!
 
 - 🔭 I’m currently working on an Ecommerce project.😌
 - 🌱 I’m currently learning backpack and filament admin-panel concept and also unit testing🔬
