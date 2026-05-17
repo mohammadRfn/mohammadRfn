@@ -1,8 +1,8 @@
 ## Hi there 👋
 My name is Mohammad, I'm a computer engineer with bachelor's degree intrested in web development with laravel and php!
 
-- 🔭 I’m currently working on an Ecommerce project.😌
-- 🌱 I’m currently learning backpack and filament admin-panel concept and also unit testing🔬
+- 🔭 I’m currently working on improving codebase skills.😌
+- 🌱 I’m currently learning some new AI technologies like agents🔬
 - 👯 I’m looking to collaborate with new web development teams in tech companies💻
 - - 📫 How to reach me: https://www.linkedin.com/in/mohammad-raufian-243a54203
 <!--
